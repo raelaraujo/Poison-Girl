@@ -34,19 +34,32 @@ Wanna add something useful or thats missin?
 
 What you gonna do?
 
-1 - clone the project with:
+### 1 - clone the project with:
 
-    git clone https://github.com/raelaraujo/Poison-Girl
-    cd Posion-Girl
+    1.1 - git clone https://github.com/raelaraujo/Poison-Girl
 
-2 - install the requirements:
-    pip install -r requirements
+    1.2 - cd Posion-Girl
 
-3 - create your branch to work with:
+### 2 - install the requirements:
+U can choose one
+    
+2.1 with **Docker**:
+    
+    soon
+
+2.2 with **Venv**:
+        
+        2.2.1 - python3 -m venv venv
+
+        2.2.2 - source venv/bin/activate
+
+        2.2.3 - pip install -r requirements
+
+### 3 - create your branch to work with:
 
     git checkout -b my_workspace
 
-4 - with ur changes:
+### 4 - with ur changes:
 
     4.1 - git add <files>
 
