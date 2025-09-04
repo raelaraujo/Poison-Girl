@@ -37,7 +37,7 @@ What you gonna do?
 1 - clone the project with:
 
     git clone https://github.com/raelaraujo/Poison-Girl
-    cd malware
+    cd Posion-Girl
 
 2 - install the requirements:
     pip install -r requirements
