@@ -4,7 +4,7 @@ That's a simple ***study*** project to improve a little bit of my knowledge abou
 ---
 
 ## What's the goals of that?
-It could be a simple spyware. That takes target's screenshot, record their words, password, anything thats he's typin, 
+It must be a simple spyware. That takes target's screenshot, record their words, password, anything thats he's typin, 
 took a his face photos, and all this in at N to N seconds. Using threads, to do all of this all the same moment
 
 But isnt only this, in addition to catch 1 machine, i pretend to makes it a worm too (is not implemented yet)
